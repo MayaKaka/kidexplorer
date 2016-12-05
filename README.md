@@ -1,2 +1,2 @@
 # kidexplorer
-File explorer based on Nodejs
+File explorer based on nodejs
